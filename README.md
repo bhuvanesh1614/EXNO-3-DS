@@ -37,6 +37,7 @@ df=pd.read_csv("/content/Encoding Data.csv")
 df
 ```
 <img width="657" height="449" alt="image" src="https://github.com/user-attachments/assets/a0780886-6758-4bea-afed-d4d284a66c9c" />
+
 ```
 from sklearn.preprocessing import LabelEncoder,OrdinalEncoder
 pm=['Hot','Warm','Cold']
